@@ -1,7 +1,6 @@
 import time
-#comenatriu
-#adsdadas
-
+#comentariu
+#mihaela
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
